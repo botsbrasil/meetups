@@ -2,7 +2,7 @@
 
 Lista de meetups voltados para bots no Brasil.
 
-Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso [guia de contribuição](https://github.com/cerebrobr/meetups/blob/master/CONTRIBUTING.md)
+Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso [guia de contribuição](https://github.com/botsbrasil/meetups/blob/master/CONTRIBUTING.md)
 
 
 - [Pernambuco](#pernambuco)
