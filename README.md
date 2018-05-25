@@ -15,7 +15,7 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 ## Pernambuco
 *Meetups sobre desenvolvimento de bots no estado de Pernambuco.*
 
-- [ChatBot Pernambuco](https://www.facebook.com/groups/247260785715123/) -  Meetup de chatbots Porto Alegre organizado por Rian Nascimento
+- [ChatBot Pernambuco](https://www.facebook.com/groups/247260785715123/) -  ChatBot Pernambuco - Meetup sobre chatbots em Pernambuco organizado por Rian Nascimento
 
 
 ## Rio Grande do Sul
